@@ -55,6 +55,8 @@ A Discord bot for "injects" a map while votemap is running on a game server usin
 - Automatically disable votemap when a map is selected and re-enable when the map is active
 - Send webhook notifications for map selections (Logging)
 
+![Example](screenshot.png)
+
 ## Prerequisites
 - Node.js (v16 or higher)
 - A Discord bot token
