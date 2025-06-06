@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2"
+  },
+  "name": "hll-votemap-map-injector",
+  "version": "1.0.0",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "description": ""
+}
