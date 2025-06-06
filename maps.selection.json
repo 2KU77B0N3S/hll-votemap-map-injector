@@ -1,0 +1,2748 @@
+{
+  "result": [
+    {
+      "id": "CAR_S_1944_Day_P_Skirmish",
+      "map": {
+        "id": "carentan",
+        "name": "CARENTAN",
+        "tag": "CAR",
+        "pretty_name": "Carentan",
+        "shortname": "Carentan",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "Carentan Skirmish",
+      "image_name": "carentan-day.webp"
+    },
+    {
+      "id": "CAR_S_1944_Dusk_P_Skirmish",
+      "map": {
+        "id": "carentan",
+        "name": "CARENTAN",
+        "tag": "CAR",
+        "pretty_name": "Carentan",
+        "shortname": "Carentan",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "dusk",
+      "pretty_name": "Carentan Skirmish (Dusk)",
+      "image_name": "carentan-dusk.webp"
+    },
+    {
+      "id": "CAR_S_1944_Rain_P_Skirmish",
+      "map": {
+        "id": "carentan",
+        "name": "CARENTAN",
+        "tag": "CAR",
+        "pretty_name": "Carentan",
+        "shortname": "Carentan",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "rain",
+      "pretty_name": "Carentan Skirmish (Rain)",
+      "image_name": "carentan-rain.webp"
+    },
+    {
+      "id": "DRL_S_1944_Day_P_Skirmish",
+      "map": {
+        "id": "driel",
+        "name": "DRIEL",
+        "tag": "DRL",
+        "pretty_name": "Driel",
+        "shortname": "Driel",
+        "allies": {
+          "name": "gb",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "Driel Skirmish",
+      "image_name": "driel-day.webp"
+    },
+    {
+      "id": "DRL_S_1944_Night_P_Skirmish",
+      "map": {
+        "id": "driel",
+        "name": "DRIEL",
+        "tag": "DRL",
+        "pretty_name": "Driel",
+        "shortname": "Driel",
+        "allies": {
+          "name": "gb",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "night",
+      "pretty_name": "Driel Skirmish (Night)",
+      "image_name": "driel-night.webp"
+    },
+    {
+      "id": "DRL_S_1944_P_Skirmish",
+      "map": {
+        "id": "driel",
+        "name": "DRIEL",
+        "tag": "DRL",
+        "pretty_name": "Driel",
+        "shortname": "Driel",
+        "allies": {
+          "name": "gb",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "dawn",
+      "pretty_name": "Driel Skirmish (Dawn)",
+      "image_name": "driel-dawn.webp"
+    },
+    {
+      "id": "ELA_S_1942_Night_P_Skirmish",
+      "map": {
+        "id": "elalamein",
+        "name": "EL ALAMEIN",
+        "tag": "ELA",
+        "pretty_name": "El Alamein",
+        "shortname": "Alamein",
+        "allies": {
+          "name": "gb",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "dusk",
+      "pretty_name": "El Alamein Skirmish (Dusk)",
+      "image_name": "elalamein-dusk.webp"
+    },
+    {
+      "id": "ELA_S_1942_P_Skirmish",
+      "map": {
+        "id": "elalamein",
+        "name": "EL ALAMEIN",
+        "tag": "ELA",
+        "pretty_name": "El Alamein",
+        "shortname": "Alamein",
+        "allies": {
+          "name": "gb",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "El Alamein Skirmish",
+      "image_name": "elalamein-day.webp"
+    },
+    {
+      "id": "HIL_S_1944_Day_P_Skirmish",
+      "map": {
+        "id": "hill400",
+        "name": "HILL 400",
+        "tag": "HIL",
+        "pretty_name": "Hill 400",
+        "shortname": "Hill 400",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "Hill 400 Skirmish",
+      "image_name": "hill400-day.webp"
+    },
+    {
+      "id": "HIL_S_1944_Dusk_P_Skirmish",
+      "map": {
+        "id": "hill400",
+        "name": "HILL 400",
+        "tag": "HIL",
+        "pretty_name": "Hill 400",
+        "shortname": "Hill 400",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "dusk",
+      "pretty_name": "Hill 400 Skirmish (Dusk)",
+      "image_name": "hill400-dusk.webp"
+    },
+    {
+      "id": "PHL_L_1944_OffensiveGER",
+      "map": {
+        "id": "purpleheartlane",
+        "name": "PURPLE HEART LANE",
+        "tag": "PHL",
+        "pretty_name": "Purple Heart Lane",
+        "shortname": "PHL",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "day",
+      "pretty_name": "Purple Heart Lane Off. GER",
+      "image_name": "purpleheartlane-day.webp"
+    },
+    {
+      "id": "PHL_L_1944_OffensiveUS",
+      "map": {
+        "id": "purpleheartlane",
+        "name": "PURPLE HEART LANE",
+        "tag": "PHL",
+        "pretty_name": "Purple Heart Lane",
+        "shortname": "PHL",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "day",
+      "pretty_name": "Purple Heart Lane Off. US",
+      "image_name": "purpleheartlane-day.webp"
+    },
+    {
+      "id": "PHL_L_1944_Warfare",
+      "map": {
+        "id": "purpleheartlane",
+        "name": "PURPLE HEART LANE",
+        "tag": "PHL",
+        "pretty_name": "Purple Heart Lane",
+        "shortname": "PHL",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "rain",
+      "pretty_name": "Purple Heart Lane Warfare (Rain)",
+      "image_name": "purpleheartlane-rain.webp"
+    },
+    {
+      "id": "PHL_L_1944_Warfare_Night",
+      "map": {
+        "id": "purpleheartlane",
+        "name": "PURPLE HEART LANE",
+        "tag": "PHL",
+        "pretty_name": "Purple Heart Lane",
+        "shortname": "PHL",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "night",
+      "pretty_name": "Purple Heart Lane Warfare (Night)",
+      "image_name": "purpleheartlane-night.webp"
+    },
+    {
+      "id": "PHL_S_1944_Morning_P_Skirmish",
+      "map": {
+        "id": "purpleheartlane",
+        "name": "PURPLE HEART LANE",
+        "tag": "PHL",
+        "pretty_name": "Purple Heart Lane",
+        "shortname": "PHL",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "dawn",
+      "pretty_name": "Purple Heart Lane Skirmish (Dawn)",
+      "image_name": "purpleheartlane-dawn.webp"
+    },
+    {
+      "id": "PHL_S_1944_Night_P_Skirmish",
+      "map": {
+        "id": "purpleheartlane",
+        "name": "PURPLE HEART LANE",
+        "tag": "PHL",
+        "pretty_name": "Purple Heart Lane",
+        "shortname": "PHL",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "night",
+      "pretty_name": "Purple Heart Lane Skirmish (Night)",
+      "image_name": "purpleheartlane-night.webp"
+    },
+    {
+      "id": "PHL_S_1944_Rain_P_Skirmish",
+      "map": {
+        "id": "purpleheartlane",
+        "name": "PURPLE HEART LANE",
+        "tag": "PHL",
+        "pretty_name": "Purple Heart Lane",
+        "shortname": "PHL",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "rain",
+      "pretty_name": "Purple Heart Lane Skirmish (Rain)",
+      "image_name": "purpleheartlane-rain.webp"
+    },
+    {
+      "id": "SMDM_S_1944_Day_P_Skirmish",
+      "map": {
+        "id": "stmariedumont",
+        "name": "ST MARIE DU MONT",
+        "tag": "BRC",
+        "pretty_name": "St. Marie Du Mont",
+        "shortname": "SMDM",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "St. Marie Du Mont Skirmish",
+      "image_name": "stmariedumont-day.webp"
+    },
+    {
+      "id": "SMDM_S_1944_Night_P_Skirmish",
+      "map": {
+        "id": "stmariedumont",
+        "name": "ST MARIE DU MONT",
+        "tag": "BRC",
+        "pretty_name": "St. Marie Du Mont",
+        "shortname": "SMDM",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "night",
+      "pretty_name": "St. Marie Du Mont Skirmish (Night)",
+      "image_name": "stmariedumont-night.webp"
+    },
+    {
+      "id": "SMDM_S_1944_Rain_P_Skirmish",
+      "map": {
+        "id": "stmariedumont",
+        "name": "ST MARIE DU MONT",
+        "tag": "BRC",
+        "pretty_name": "St. Marie Du Mont",
+        "shortname": "SMDM",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "rain",
+      "pretty_name": "St. Marie Du Mont Skirmish (Rain)",
+      "image_name": "stmariedumont-rain.webp"
+    },
+    {
+      "id": "SME_S_1944_Day_P_Skirmish",
+      "map": {
+        "id": "stmereeglise",
+        "name": "SAINTE-MÈRE-ÉGLISE",
+        "tag": "SME",
+        "pretty_name": "St. Mere Eglise",
+        "shortname": "SME",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "St. Mere Eglise Skirmish",
+      "image_name": "stmereeglise-day.webp"
+    },
+    {
+      "id": "SME_S_1944_Morning_P_Skirmish",
+      "map": {
+        "id": "stmereeglise",
+        "name": "SAINTE-MÈRE-ÉGLISE",
+        "tag": "SME",
+        "pretty_name": "St. Mere Eglise",
+        "shortname": "SME",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "dawn",
+      "pretty_name": "St. Mere Eglise Skirmish (Dawn)",
+      "image_name": "stmereeglise-dawn.webp"
+    },
+    {
+      "id": "SME_S_1944_Night_P_Skirmish",
+      "map": {
+        "id": "stmereeglise",
+        "name": "SAINTE-MÈRE-ÉGLISE",
+        "tag": "SME",
+        "pretty_name": "St. Mere Eglise",
+        "shortname": "SME",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "night",
+      "pretty_name": "St. Mere Eglise Skirmish (Night)",
+      "image_name": "stmereeglise-night.webp"
+    },
+    {
+      "id": "carentan_offensive_ger",
+      "map": {
+        "id": "carentan",
+        "name": "CARENTAN",
+        "tag": "CAR",
+        "pretty_name": "Carentan",
+        "shortname": "Carentan",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "day",
+      "pretty_name": "Carentan Off. GER",
+      "image_name": "carentan-day.webp"
+    },
+    {
+      "id": "carentan_offensive_us",
+      "map": {
+        "id": "carentan",
+        "name": "CARENTAN",
+        "tag": "CAR",
+        "pretty_name": "Carentan",
+        "shortname": "Carentan",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "day",
+      "pretty_name": "Carentan Off. US",
+      "image_name": "carentan-day.webp"
+    },
+    {
+      "id": "carentan_warfare",
+      "map": {
+        "id": "carentan",
+        "name": "CARENTAN",
+        "tag": "CAR",
+        "pretty_name": "Carentan",
+        "shortname": "Carentan",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "Carentan Warfare",
+      "image_name": "carentan-day.webp"
+    },
+    {
+      "id": "carentan_warfare_night",
+      "map": {
+        "id": "carentan",
+        "name": "CARENTAN",
+        "tag": "CAR",
+        "pretty_name": "Carentan",
+        "shortname": "Carentan",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "night",
+      "pretty_name": "Carentan Warfare (Night)",
+      "image_name": "carentan-night.webp"
+    },
+    {
+      "id": "driel_offensive_ger",
+      "map": {
+        "id": "driel",
+        "name": "DRIEL",
+        "tag": "DRL",
+        "pretty_name": "Driel",
+        "shortname": "Driel",
+        "allies": {
+          "name": "gb",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "day",
+      "pretty_name": "Driel Off. GER",
+      "image_name": "driel-day.webp"
+    },
+    {
+      "id": "driel_offensive_us",
+      "map": {
+        "id": "driel",
+        "name": "DRIEL",
+        "tag": "DRL",
+        "pretty_name": "Driel",
+        "shortname": "Driel",
+        "allies": {
+          "name": "gb",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "day",
+      "pretty_name": "Driel Off. GB",
+      "image_name": "driel-day.webp"
+    },
+    {
+      "id": "driel_warfare",
+      "map": {
+        "id": "driel",
+        "name": "DRIEL",
+        "tag": "DRL",
+        "pretty_name": "Driel",
+        "shortname": "Driel",
+        "allies": {
+          "name": "gb",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "Driel Warfare",
+      "image_name": "driel-day.webp"
+    },
+    {
+      "id": "driel_warfare_night",
+      "map": {
+        "id": "driel",
+        "name": "DRIEL",
+        "tag": "DRL",
+        "pretty_name": "Driel",
+        "shortname": "Driel",
+        "allies": {
+          "name": "gb",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "night",
+      "pretty_name": "Driel Warfare (Night)",
+      "image_name": "driel-night.webp"
+    },
+    {
+      "id": "elalamein_offensive_CW",
+      "map": {
+        "id": "elalamein",
+        "name": "EL ALAMEIN",
+        "tag": "ELA",
+        "pretty_name": "El Alamein",
+        "shortname": "Alamein",
+        "allies": {
+          "name": "gb",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "day",
+      "pretty_name": "El Alamein Off. GB",
+      "image_name": "elalamein-day.webp"
+    },
+    {
+      "id": "elalamein_offensive_ger",
+      "map": {
+        "id": "elalamein",
+        "name": "EL ALAMEIN",
+        "tag": "ELA",
+        "pretty_name": "El Alamein",
+        "shortname": "Alamein",
+        "allies": {
+          "name": "gb",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "day",
+      "pretty_name": "El Alamein Off. GER",
+      "image_name": "elalamein-day.webp"
+    },
+    {
+      "id": "elalamein_warfare",
+      "map": {
+        "id": "elalamein",
+        "name": "EL ALAMEIN",
+        "tag": "ELA",
+        "pretty_name": "El Alamein",
+        "shortname": "Alamein",
+        "allies": {
+          "name": "gb",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "El Alamein Warfare",
+      "image_name": "elalamein-day.webp"
+    },
+    {
+      "id": "elalamein_warfare_night",
+      "map": {
+        "id": "elalamein",
+        "name": "EL ALAMEIN",
+        "tag": "ELA",
+        "pretty_name": "El Alamein",
+        "shortname": "Alamein",
+        "allies": {
+          "name": "gb",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "dusk",
+      "pretty_name": "El Alamein Warfare (Dusk)",
+      "image_name": "elalamein-dusk.webp"
+    },
+    {
+      "id": "elsenbornridge_offensiveUS_day",
+      "map": {
+        "id": "elsenbornridge",
+        "name": "ELSENBORN RIDGE",
+        "tag": "EBR",
+        "pretty_name": "Elsenborn Ridge",
+        "shortname": "Elsenborn",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "day",
+      "pretty_name": "Elsenborn Ridge Off. US",
+      "image_name": "elsenbornridge-day.webp"
+    },
+    {
+      "id": "elsenbornridge_offensiveUS_morning",
+      "map": {
+        "id": "elsenbornridge",
+        "name": "ELSENBORN RIDGE",
+        "tag": "EBR",
+        "pretty_name": "Elsenborn Ridge",
+        "shortname": "Elsenborn",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "dawn",
+      "pretty_name": "Elsenborn Ridge Off. US (Dawn)",
+      "image_name": "elsenbornridge-dawn.webp"
+    },
+    {
+      "id": "elsenbornridge_offensiveUS_night",
+      "map": {
+        "id": "elsenbornridge",
+        "name": "ELSENBORN RIDGE",
+        "tag": "EBR",
+        "pretty_name": "Elsenborn Ridge",
+        "shortname": "Elsenborn",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "night",
+      "pretty_name": "Elsenborn Ridge Off. US (Night)",
+      "image_name": "elsenbornridge-night.webp"
+    },
+    {
+      "id": "elsenbornridge_offensiveger_day",
+      "map": {
+        "id": "elsenbornridge",
+        "name": "ELSENBORN RIDGE",
+        "tag": "EBR",
+        "pretty_name": "Elsenborn Ridge",
+        "shortname": "Elsenborn",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "day",
+      "pretty_name": "Elsenborn Ridge Off. GER",
+      "image_name": "elsenbornridge-day.webp"
+    },
+    {
+      "id": "elsenbornridge_offensiveger_morning",
+      "map": {
+        "id": "elsenbornridge",
+        "name": "ELSENBORN RIDGE",
+        "tag": "EBR",
+        "pretty_name": "Elsenborn Ridge",
+        "shortname": "Elsenborn",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "dawn",
+      "pretty_name": "Elsenborn Ridge Off. GER (Dawn)",
+      "image_name": "elsenbornridge-dawn.webp"
+    },
+    {
+      "id": "elsenbornridge_offensiveger_night",
+      "map": {
+        "id": "elsenbornridge",
+        "name": "ELSENBORN RIDGE",
+        "tag": "EBR",
+        "pretty_name": "Elsenborn Ridge",
+        "shortname": "Elsenborn",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "night",
+      "pretty_name": "Elsenborn Ridge Off. GER (Night)",
+      "image_name": "elsenbornridge-night.webp"
+    },
+    {
+      "id": "elsenbornridge_skirmish_day",
+      "map": {
+        "id": "elsenbornridge",
+        "name": "ELSENBORN RIDGE",
+        "tag": "EBR",
+        "pretty_name": "Elsenborn Ridge",
+        "shortname": "Elsenborn",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "Elsenborn Ridge Skirmish",
+      "image_name": "elsenbornridge-day.webp"
+    },
+    {
+      "id": "elsenbornridge_skirmish_morning",
+      "map": {
+        "id": "elsenbornridge",
+        "name": "ELSENBORN RIDGE",
+        "tag": "EBR",
+        "pretty_name": "Elsenborn Ridge",
+        "shortname": "Elsenborn",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "dawn",
+      "pretty_name": "Elsenborn Ridge Skirmish (Dawn)",
+      "image_name": "elsenbornridge-dawn.webp"
+    },
+    {
+      "id": "elsenbornridge_skirmish_night",
+      "map": {
+        "id": "elsenbornridge",
+        "name": "ELSENBORN RIDGE",
+        "tag": "EBR",
+        "pretty_name": "Elsenborn Ridge",
+        "shortname": "Elsenborn",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "night",
+      "pretty_name": "Elsenborn Ridge Skirmish (Night)",
+      "image_name": "elsenbornridge-night.webp"
+    },
+    {
+      "id": "elsenbornridge_warfare_day",
+      "map": {
+        "id": "elsenbornridge",
+        "name": "ELSENBORN RIDGE",
+        "tag": "EBR",
+        "pretty_name": "Elsenborn Ridge",
+        "shortname": "Elsenborn",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "Elsenborn Ridge Warfare",
+      "image_name": "elsenbornridge-day.webp"
+    },
+    {
+      "id": "elsenbornridge_warfare_morning",
+      "map": {
+        "id": "elsenbornridge",
+        "name": "ELSENBORN RIDGE",
+        "tag": "EBR",
+        "pretty_name": "Elsenborn Ridge",
+        "shortname": "Elsenborn",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "dawn",
+      "pretty_name": "Elsenborn Ridge Warfare (Dawn)",
+      "image_name": "elsenbornridge-dawn.webp"
+    },
+    {
+      "id": "elsenbornridge_warfare_night",
+      "map": {
+        "id": "elsenbornridge",
+        "name": "ELSENBORN RIDGE",
+        "tag": "EBR",
+        "pretty_name": "Elsenborn Ridge",
+        "shortname": "Elsenborn",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "night",
+      "pretty_name": "Elsenborn Ridge Warfare (Night)",
+      "image_name": "elsenbornridge-night.webp"
+    },
+    {
+      "id": "foy_offensive_ger",
+      "map": {
+        "id": "foy",
+        "name": "FOY",
+        "tag": "FOY",
+        "pretty_name": "Foy",
+        "shortname": "Foy",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "day",
+      "pretty_name": "Foy Off. GER",
+      "image_name": "foy-day.webp"
+    },
+    {
+      "id": "foy_offensive_us",
+      "map": {
+        "id": "foy",
+        "name": "FOY",
+        "tag": "FOY",
+        "pretty_name": "Foy",
+        "shortname": "Foy",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "day",
+      "pretty_name": "Foy Off. US",
+      "image_name": "foy-day.webp"
+    },
+    {
+      "id": "foy_warfare",
+      "map": {
+        "id": "foy",
+        "name": "FOY",
+        "tag": "FOY",
+        "pretty_name": "Foy",
+        "shortname": "Foy",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "Foy Warfare",
+      "image_name": "foy-day.webp"
+    },
+    {
+      "id": "foy_warfare_night",
+      "map": {
+        "id": "foy",
+        "name": "FOY",
+        "tag": "FOY",
+        "pretty_name": "Foy",
+        "shortname": "Foy",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "night",
+      "pretty_name": "Foy Warfare (Night)",
+      "image_name": "foy-night.webp"
+    },
+    {
+      "id": "hill400_offensive_US",
+      "map": {
+        "id": "hill400",
+        "name": "HILL 400",
+        "tag": "HIL",
+        "pretty_name": "Hill 400",
+        "shortname": "Hill 400",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "day",
+      "pretty_name": "Hill 400 Off. US",
+      "image_name": "hill400-day.webp"
+    },
+    {
+      "id": "hill400_offensive_ger",
+      "map": {
+        "id": "hill400",
+        "name": "HILL 400",
+        "tag": "HIL",
+        "pretty_name": "Hill 400",
+        "shortname": "Hill 400",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "day",
+      "pretty_name": "Hill 400 Off. GER",
+      "image_name": "hill400-day.webp"
+    },
+    {
+      "id": "hill400_warfare",
+      "map": {
+        "id": "hill400",
+        "name": "HILL 400",
+        "tag": "HIL",
+        "pretty_name": "Hill 400",
+        "shortname": "Hill 400",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "Hill 400 Warfare",
+      "image_name": "hill400-day.webp"
+    },
+    {
+      "id": "hurtgenforest_offensive_US",
+      "map": {
+        "id": "hurtgenforest",
+        "name": "HÜRTGEN FOREST",
+        "tag": "HUR",
+        "pretty_name": "Hurtgen Forest",
+        "shortname": "Hurtgen",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "day",
+      "pretty_name": "Hurtgen Forest Off. US",
+      "image_name": "hurtgenforest-day.webp"
+    },
+    {
+      "id": "hurtgenforest_offensive_ger",
+      "map": {
+        "id": "hurtgenforest",
+        "name": "HÜRTGEN FOREST",
+        "tag": "HUR",
+        "pretty_name": "Hurtgen Forest",
+        "shortname": "Hurtgen",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "day",
+      "pretty_name": "Hurtgen Forest Off. GER",
+      "image_name": "hurtgenforest-day.webp"
+    },
+    {
+      "id": "hurtgenforest_warfare_V2",
+      "map": {
+        "id": "hurtgenforest",
+        "name": "HÜRTGEN FOREST",
+        "tag": "HUR",
+        "pretty_name": "Hurtgen Forest",
+        "shortname": "Hurtgen",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "Hurtgen Forest Warfare",
+      "image_name": "hurtgenforest-day.webp"
+    },
+    {
+      "id": "hurtgenforest_warfare_V2_night",
+      "map": {
+        "id": "hurtgenforest",
+        "name": "HÜRTGEN FOREST",
+        "tag": "HUR",
+        "pretty_name": "Hurtgen Forest",
+        "shortname": "Hurtgen",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "night",
+      "pretty_name": "Hurtgen Forest Warfare (Night)",
+      "image_name": "hurtgenforest-night.webp"
+    },
+    {
+      "id": "kharkov_offensive_ger",
+      "map": {
+        "id": "kharkov",
+        "name": "Kharkov",
+        "tag": "KHA",
+        "pretty_name": "Kharkov",
+        "shortname": "Kharkov",
+        "allies": {
+          "name": "rus",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "day",
+      "pretty_name": "Kharkov Off. GER",
+      "image_name": "kharkov-day.webp"
+    },
+    {
+      "id": "kharkov_offensive_rus",
+      "map": {
+        "id": "kharkov",
+        "name": "Kharkov",
+        "tag": "KHA",
+        "pretty_name": "Kharkov",
+        "shortname": "Kharkov",
+        "allies": {
+          "name": "rus",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "day",
+      "pretty_name": "Kharkov Off. RUS",
+      "image_name": "kharkov-day.webp"
+    },
+    {
+      "id": "kharkov_warfare",
+      "map": {
+        "id": "kharkov",
+        "name": "Kharkov",
+        "tag": "KHA",
+        "pretty_name": "Kharkov",
+        "shortname": "Kharkov",
+        "allies": {
+          "name": "rus",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "Kharkov Warfare",
+      "image_name": "kharkov-day.webp"
+    },
+    {
+      "id": "kharkov_warfare_night",
+      "map": {
+        "id": "kharkov",
+        "name": "Kharkov",
+        "tag": "KHA",
+        "pretty_name": "Kharkov",
+        "shortname": "Kharkov",
+        "allies": {
+          "name": "rus",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "night",
+      "pretty_name": "Kharkov Warfare (Night)",
+      "image_name": "kharkov-night.webp"
+    },
+    {
+      "id": "kursk_offensive_ger",
+      "map": {
+        "id": "kursk",
+        "name": "KURSK",
+        "tag": "KUR",
+        "pretty_name": "Kursk",
+        "shortname": "Kursk",
+        "allies": {
+          "name": "rus",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "day",
+      "pretty_name": "Kursk Off. GER",
+      "image_name": "kursk-day.webp"
+    },
+    {
+      "id": "kursk_offensive_rus",
+      "map": {
+        "id": "kursk",
+        "name": "KURSK",
+        "tag": "KUR",
+        "pretty_name": "Kursk",
+        "shortname": "Kursk",
+        "allies": {
+          "name": "rus",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "day",
+      "pretty_name": "Kursk Off. RUS",
+      "image_name": "kursk-day.webp"
+    },
+    {
+      "id": "kursk_warfare",
+      "map": {
+        "id": "kursk",
+        "name": "KURSK",
+        "tag": "KUR",
+        "pretty_name": "Kursk",
+        "shortname": "Kursk",
+        "allies": {
+          "name": "rus",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "Kursk Warfare",
+      "image_name": "kursk-day.webp"
+    },
+    {
+      "id": "kursk_warfare_night",
+      "map": {
+        "id": "kursk",
+        "name": "KURSK",
+        "tag": "KUR",
+        "pretty_name": "Kursk",
+        "shortname": "Kursk",
+        "allies": {
+          "name": "rus",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "night",
+      "pretty_name": "Kursk Warfare (Night)",
+      "image_name": "kursk-night.webp"
+    },
+    {
+      "id": "mortain_offensiveUS_day",
+      "map": {
+        "id": "mortain",
+        "name": "MORTAIN",
+        "tag": "MOR",
+        "pretty_name": "Mortain",
+        "shortname": "Mortain",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "day",
+      "pretty_name": "Mortain Off. US",
+      "image_name": "mortain-day.webp"
+    },
+    {
+      "id": "mortain_offensiveUS_dusk",
+      "map": {
+        "id": "mortain",
+        "name": "MORTAIN",
+        "tag": "MOR",
+        "pretty_name": "Mortain",
+        "shortname": "Mortain",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "dusk",
+      "pretty_name": "Mortain Off. US (Dusk)",
+      "image_name": "mortain-dusk.webp"
+    },
+    {
+      "id": "mortain_offensiveUS_overcast",
+      "map": {
+        "id": "mortain",
+        "name": "MORTAIN",
+        "tag": "MOR",
+        "pretty_name": "Mortain",
+        "shortname": "Mortain",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "overcast",
+      "pretty_name": "Mortain Off. US (Overcast)",
+      "image_name": "mortain-overcast.webp"
+    },
+    {
+      "id": "mortain_offensiveger_day",
+      "map": {
+        "id": "mortain",
+        "name": "MORTAIN",
+        "tag": "MOR",
+        "pretty_name": "Mortain",
+        "shortname": "Mortain",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "day",
+      "pretty_name": "Mortain Off. GER",
+      "image_name": "mortain-day.webp"
+    },
+    {
+      "id": "mortain_offensiveger_dusk",
+      "map": {
+        "id": "mortain",
+        "name": "MORTAIN",
+        "tag": "MOR",
+        "pretty_name": "Mortain",
+        "shortname": "Mortain",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "dusk",
+      "pretty_name": "Mortain Off. GER (Dusk)",
+      "image_name": "mortain-dusk.webp"
+    },
+    {
+      "id": "mortain_offensiveger_overcast",
+      "map": {
+        "id": "mortain",
+        "name": "MORTAIN",
+        "tag": "MOR",
+        "pretty_name": "Mortain",
+        "shortname": "Mortain",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "overcast",
+      "pretty_name": "Mortain Off. GER (Overcast)",
+      "image_name": "mortain-overcast.webp"
+    },
+    {
+      "id": "mortain_skirmish_day",
+      "map": {
+        "id": "mortain",
+        "name": "MORTAIN",
+        "tag": "MOR",
+        "pretty_name": "Mortain",
+        "shortname": "Mortain",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "Mortain Skirmish",
+      "image_name": "mortain-day.webp"
+    },
+    {
+      "id": "mortain_skirmish_dusk",
+      "map": {
+        "id": "mortain",
+        "name": "MORTAIN",
+        "tag": "MOR",
+        "pretty_name": "Mortain",
+        "shortname": "Mortain",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "dusk",
+      "pretty_name": "Mortain Skirmish (Dusk)",
+      "image_name": "mortain-dusk.webp"
+    },
+    {
+      "id": "mortain_skirmish_overcast",
+      "map": {
+        "id": "mortain",
+        "name": "MORTAIN",
+        "tag": "MOR",
+        "pretty_name": "Mortain",
+        "shortname": "Mortain",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "overcast",
+      "pretty_name": "Mortain Skirmish (Overcast)",
+      "image_name": "mortain-overcast.webp"
+    },
+    {
+      "id": "mortain_warfare_day",
+      "map": {
+        "id": "mortain",
+        "name": "MORTAIN",
+        "tag": "MOR",
+        "pretty_name": "Mortain",
+        "shortname": "Mortain",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "Mortain Warfare",
+      "image_name": "mortain-day.webp"
+    },
+    {
+      "id": "mortain_warfare_dusk",
+      "map": {
+        "id": "mortain",
+        "name": "MORTAIN",
+        "tag": "MOR",
+        "pretty_name": "Mortain",
+        "shortname": "Mortain",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "dusk",
+      "pretty_name": "Mortain Warfare (Dusk)",
+      "image_name": "mortain-dusk.webp"
+    },
+    {
+      "id": "mortain_warfare_overcast",
+      "map": {
+        "id": "mortain",
+        "name": "MORTAIN",
+        "tag": "MOR",
+        "pretty_name": "Mortain",
+        "shortname": "Mortain",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "overcast",
+      "pretty_name": "Mortain Warfare (Overcast)",
+      "image_name": "mortain-overcast.webp"
+    },
+    {
+      "id": "omahabeach_offensive_ger",
+      "map": {
+        "id": "omahabeach",
+        "name": "OMAHA BEACH",
+        "tag": "OMA",
+        "pretty_name": "Omaha Beach",
+        "shortname": "Omaha",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "day",
+      "pretty_name": "Omaha Beach Off. GER",
+      "image_name": "omahabeach-day.webp"
+    },
+    {
+      "id": "omahabeach_offensive_us",
+      "map": {
+        "id": "omahabeach",
+        "name": "OMAHA BEACH",
+        "tag": "OMA",
+        "pretty_name": "Omaha Beach",
+        "shortname": "Omaha",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "day",
+      "pretty_name": "Omaha Beach Off. US",
+      "image_name": "omahabeach-day.webp"
+    },
+    {
+      "id": "omahabeach_warfare",
+      "map": {
+        "id": "omahabeach",
+        "name": "OMAHA BEACH",
+        "tag": "OMA",
+        "pretty_name": "Omaha Beach",
+        "shortname": "Omaha",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "Omaha Beach Warfare",
+      "image_name": "omahabeach-day.webp"
+    },
+    {
+      "id": "omahabeach_warfare_night",
+      "map": {
+        "id": "omahabeach",
+        "name": "OMAHA BEACH",
+        "tag": "OMA",
+        "pretty_name": "Omaha Beach",
+        "shortname": "Omaha",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "dusk",
+      "pretty_name": "Omaha Beach Warfare (Dusk)",
+      "image_name": "omahabeach-dusk.webp"
+    },
+    {
+      "id": "remagen_offensive_ger",
+      "map": {
+        "id": "remagen",
+        "name": "REMAGEN",
+        "tag": "REM",
+        "pretty_name": "Remagen",
+        "shortname": "Remagen",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "day",
+      "pretty_name": "Remagen Off. GER",
+      "image_name": "remagen-day.webp"
+    },
+    {
+      "id": "remagen_offensive_us",
+      "map": {
+        "id": "remagen",
+        "name": "REMAGEN",
+        "tag": "REM",
+        "pretty_name": "Remagen",
+        "shortname": "Remagen",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "day",
+      "pretty_name": "Remagen Off. US",
+      "image_name": "remagen-day.webp"
+    },
+    {
+      "id": "remagen_warfare",
+      "map": {
+        "id": "remagen",
+        "name": "REMAGEN",
+        "tag": "REM",
+        "pretty_name": "Remagen",
+        "shortname": "Remagen",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "Remagen Warfare",
+      "image_name": "remagen-day.webp"
+    },
+    {
+      "id": "remagen_warfare_night",
+      "map": {
+        "id": "remagen",
+        "name": "REMAGEN",
+        "tag": "REM",
+        "pretty_name": "Remagen",
+        "shortname": "Remagen",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "night",
+      "pretty_name": "Remagen Warfare (Night)",
+      "image_name": "remagen-night.webp"
+    },
+    {
+      "id": "stalingrad_offensive_ger",
+      "map": {
+        "id": "stalingrad",
+        "name": "STALINGRAD",
+        "tag": "STA",
+        "pretty_name": "Stalingrad",
+        "shortname": "Stalingrad",
+        "allies": {
+          "name": "rus",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "day",
+      "pretty_name": "Stalingrad Off. GER",
+      "image_name": "stalingrad-day.webp"
+    },
+    {
+      "id": "stalingrad_offensive_rus",
+      "map": {
+        "id": "stalingrad",
+        "name": "STALINGRAD",
+        "tag": "STA",
+        "pretty_name": "Stalingrad",
+        "shortname": "Stalingrad",
+        "allies": {
+          "name": "rus",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "day",
+      "pretty_name": "Stalingrad Off. RUS",
+      "image_name": "stalingrad-day.webp"
+    },
+    {
+      "id": "stalingrad_warfare",
+      "map": {
+        "id": "stalingrad",
+        "name": "STALINGRAD",
+        "tag": "STA",
+        "pretty_name": "Stalingrad",
+        "shortname": "Stalingrad",
+        "allies": {
+          "name": "rus",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "Stalingrad Warfare",
+      "image_name": "stalingrad-day.webp"
+    },
+    {
+      "id": "stalingrad_warfare_night",
+      "map": {
+        "id": "stalingrad",
+        "name": "STALINGRAD",
+        "tag": "STA",
+        "pretty_name": "Stalingrad",
+        "shortname": "Stalingrad",
+        "allies": {
+          "name": "rus",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "night",
+      "pretty_name": "Stalingrad Warfare (Night)",
+      "image_name": "stalingrad-night.webp"
+    },
+    {
+      "id": "stmariedumont_off_ger",
+      "map": {
+        "id": "stmariedumont",
+        "name": "ST MARIE DU MONT",
+        "tag": "BRC",
+        "pretty_name": "St. Marie Du Mont",
+        "shortname": "SMDM",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "day",
+      "pretty_name": "St. Marie Du Mont Off. GER",
+      "image_name": "stmariedumont-day.webp"
+    },
+    {
+      "id": "stmariedumont_off_us",
+      "map": {
+        "id": "stmariedumont",
+        "name": "ST MARIE DU MONT",
+        "tag": "BRC",
+        "pretty_name": "St. Marie Du Mont",
+        "shortname": "SMDM",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "day",
+      "pretty_name": "St. Marie Du Mont Off. US",
+      "image_name": "stmariedumont-day.webp"
+    },
+    {
+      "id": "stmariedumont_warfare",
+      "map": {
+        "id": "stmariedumont",
+        "name": "ST MARIE DU MONT",
+        "tag": "BRC",
+        "pretty_name": "St. Marie Du Mont",
+        "shortname": "SMDM",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "St. Marie Du Mont Warfare",
+      "image_name": "stmariedumont-day.webp"
+    },
+    {
+      "id": "stmariedumont_warfare_night",
+      "map": {
+        "id": "stmariedumont",
+        "name": "ST MARIE DU MONT",
+        "tag": "BRC",
+        "pretty_name": "St. Marie Du Mont",
+        "shortname": "SMDM",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "vertical"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "night",
+      "pretty_name": "St. Marie Du Mont Warfare (Night)",
+      "image_name": "stmariedumont-night.webp"
+    },
+    {
+      "id": "stmereeglise_offensive_ger",
+      "map": {
+        "id": "stmereeglise",
+        "name": "SAINTE-MÈRE-ÉGLISE",
+        "tag": "SME",
+        "pretty_name": "St. Mere Eglise",
+        "shortname": "SME",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "day",
+      "pretty_name": "St. Mere Eglise Off. GER",
+      "image_name": "stmereeglise-day.webp"
+    },
+    {
+      "id": "stmereeglise_offensive_us",
+      "map": {
+        "id": "stmereeglise",
+        "name": "SAINTE-MÈRE-ÉGLISE",
+        "tag": "SME",
+        "pretty_name": "St. Mere Eglise",
+        "shortname": "SME",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "day",
+      "pretty_name": "St. Mere Eglise Off. US",
+      "image_name": "stmereeglise-day.webp"
+    },
+    {
+      "id": "stmereeglise_warfare",
+      "map": {
+        "id": "stmereeglise",
+        "name": "SAINTE-MÈRE-ÉGLISE",
+        "tag": "SME",
+        "pretty_name": "St. Mere Eglise",
+        "shortname": "SME",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "St. Mere Eglise Warfare",
+      "image_name": "stmereeglise-day.webp"
+    },
+    {
+      "id": "stmereeglise_warfare_night",
+      "map": {
+        "id": "stmereeglise",
+        "name": "SAINTE-MÈRE-ÉGLISE",
+        "tag": "SME",
+        "pretty_name": "St. Mere Eglise",
+        "shortname": "SME",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "night",
+      "pretty_name": "St. Mere Eglise Warfare (Night)",
+      "image_name": "stmereeglise-night.webp"
+    },
+    {
+      "id": "tobruk_offensivebritish_day",
+      "map": {
+        "id": "tobruk",
+        "name": "TOBRUK",
+        "tag": "TOB",
+        "pretty_name": "Tobruk",
+        "shortname": "Tobruk",
+        "allies": {
+          "name": "b8a",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "dak",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "day",
+      "pretty_name": "Tobruk Off. B8A",
+      "image_name": "tobruk-day.webp"
+    },
+    {
+      "id": "tobruk_offensivebritish_dusk",
+      "map": {
+        "id": "tobruk",
+        "name": "TOBRUK",
+        "tag": "TOB",
+        "pretty_name": "Tobruk",
+        "shortname": "Tobruk",
+        "allies": {
+          "name": "b8a",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "dak",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "dusk",
+      "pretty_name": "Tobruk Off. B8A (Dusk)",
+      "image_name": "tobruk-dusk.webp"
+    },
+    {
+      "id": "tobruk_offensivebritish_morning",
+      "map": {
+        "id": "tobruk",
+        "name": "TOBRUK",
+        "tag": "TOB",
+        "pretty_name": "Tobruk",
+        "shortname": "Tobruk",
+        "allies": {
+          "name": "b8a",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "dak",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "dawn",
+      "pretty_name": "Tobruk Off. B8A (Dawn)",
+      "image_name": "tobruk-dawn.webp"
+    },
+    {
+      "id": "tobruk_offensiveger_day",
+      "map": {
+        "id": "tobruk",
+        "name": "TOBRUK",
+        "tag": "TOB",
+        "pretty_name": "Tobruk",
+        "shortname": "Tobruk",
+        "allies": {
+          "name": "b8a",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "dak",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "day",
+      "pretty_name": "Tobruk Off. DAK",
+      "image_name": "tobruk-day.webp"
+    },
+    {
+      "id": "tobruk_offensiveger_dusk",
+      "map": {
+        "id": "tobruk",
+        "name": "TOBRUK",
+        "tag": "TOB",
+        "pretty_name": "Tobruk",
+        "shortname": "Tobruk",
+        "allies": {
+          "name": "b8a",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "dak",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "dusk",
+      "pretty_name": "Tobruk Off. DAK (Dusk)",
+      "image_name": "tobruk-dusk.webp"
+    },
+    {
+      "id": "tobruk_offensiveger_morning",
+      "map": {
+        "id": "tobruk",
+        "name": "TOBRUK",
+        "tag": "TOB",
+        "pretty_name": "Tobruk",
+        "shortname": "Tobruk",
+        "allies": {
+          "name": "b8a",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "dak",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "dawn",
+      "pretty_name": "Tobruk Off. DAK (Dawn)",
+      "image_name": "tobruk-dawn.webp"
+    },
+    {
+      "id": "tobruk_skirmish_day",
+      "map": {
+        "id": "tobruk",
+        "name": "TOBRUK",
+        "tag": "TOB",
+        "pretty_name": "Tobruk",
+        "shortname": "Tobruk",
+        "allies": {
+          "name": "b8a",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "dak",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "Tobruk Skirmish",
+      "image_name": "tobruk-day.webp"
+    },
+    {
+      "id": "tobruk_skirmish_dusk",
+      "map": {
+        "id": "tobruk",
+        "name": "TOBRUK",
+        "tag": "TOB",
+        "pretty_name": "Tobruk",
+        "shortname": "Tobruk",
+        "allies": {
+          "name": "b8a",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "dak",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "dusk",
+      "pretty_name": "Tobruk Skirmish (Dusk)",
+      "image_name": "tobruk-dusk.webp"
+    },
+    {
+      "id": "tobruk_skirmish_morning",
+      "map": {
+        "id": "tobruk",
+        "name": "TOBRUK",
+        "tag": "TOB",
+        "pretty_name": "Tobruk",
+        "shortname": "Tobruk",
+        "allies": {
+          "name": "b8a",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "dak",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "control",
+      "attackers": null,
+      "environment": "dawn",
+      "pretty_name": "Tobruk Skirmish (Dawn)",
+      "image_name": "tobruk-dawn.webp"
+    },
+    {
+      "id": "tobruk_warfare_day",
+      "map": {
+        "id": "tobruk",
+        "name": "TOBRUK",
+        "tag": "TOB",
+        "pretty_name": "Tobruk",
+        "shortname": "Tobruk",
+        "allies": {
+          "name": "b8a",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "dak",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "Tobruk Warfare",
+      "image_name": "tobruk-day.webp"
+    },
+    {
+      "id": "tobruk_warfare_dusk",
+      "map": {
+        "id": "tobruk",
+        "name": "TOBRUK",
+        "tag": "TOB",
+        "pretty_name": "Tobruk",
+        "shortname": "Tobruk",
+        "allies": {
+          "name": "b8a",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "dak",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "dusk",
+      "pretty_name": "Tobruk Warfare (Dusk)",
+      "image_name": "tobruk-dusk.webp"
+    },
+    {
+      "id": "tobruk_warfare_morning",
+      "map": {
+        "id": "tobruk",
+        "name": "TOBRUK",
+        "tag": "TOB",
+        "pretty_name": "Tobruk",
+        "shortname": "Tobruk",
+        "allies": {
+          "name": "b8a",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "dak",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "dawn",
+      "pretty_name": "Tobruk Warfare (Dawn)",
+      "image_name": "tobruk-dawn.webp"
+    },
+    {
+      "id": "utahbeach_offensive_ger",
+      "map": {
+        "id": "utahbeach",
+        "name": "UTAH BEACH",
+        "tag": "UTA",
+        "pretty_name": "Utah Beach",
+        "shortname": "Utah",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "axis",
+      "environment": "day",
+      "pretty_name": "Utah Beach Off. GER",
+      "image_name": "utahbeach-day.webp"
+    },
+    {
+      "id": "utahbeach_offensive_us",
+      "map": {
+        "id": "utahbeach",
+        "name": "UTAH BEACH",
+        "tag": "UTA",
+        "pretty_name": "Utah Beach",
+        "shortname": "Utah",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "offensive",
+      "attackers": "allies",
+      "environment": "day",
+      "pretty_name": "Utah Beach Off. US",
+      "image_name": "utahbeach-day.webp"
+    },
+    {
+      "id": "utahbeach_warfare",
+      "map": {
+        "id": "utahbeach",
+        "name": "UTAH BEACH",
+        "tag": "UTA",
+        "pretty_name": "Utah Beach",
+        "shortname": "Utah",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "day",
+      "pretty_name": "Utah Beach Warfare",
+      "image_name": "utahbeach-day.webp"
+    },
+    {
+      "id": "utahbeach_warfare_night",
+      "map": {
+        "id": "utahbeach",
+        "name": "UTAH BEACH",
+        "tag": "UTA",
+        "pretty_name": "Utah Beach",
+        "shortname": "Utah",
+        "allies": {
+          "name": "us",
+          "team": "allies"
+        },
+        "axis": {
+          "name": "ger",
+          "team": "axis"
+        },
+        "orientation": "horizontal"
+      },
+      "game_mode": "warfare",
+      "attackers": null,
+      "environment": "night",
+      "pretty_name": "Utah Beach Warfare (Night)",
+      "image_name": "utahbeach-night.webp"
+    }
+  ],
+  "command": "get_maps",
+  "arguments": {
+
+  },
+  "failed": false,
+  "error": null,
+  "forward_results": null,
+  "version": "v10.6.2"
+}
