@@ -6,8 +6,7 @@
 <!-- Badges -->
 <p>
   <a href="https://github.com/2KU77B0N3S/hll-geofences/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/2KU77B0N3S/hll-votemap-map-injector
-" alt="contributors" />
+    <img src="https://img.shields.io/github/contributors/2KU77B0N3S/hll-votemap-map-injector" alt="contributors" />
   </a>
   <a href="">
     <img src="https://img.shields.io/github/last-commit/2KU77B0N3S/hll-votemap-map-injector" alt="last update" />
