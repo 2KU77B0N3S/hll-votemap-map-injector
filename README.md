@@ -10,20 +10,16 @@
 " alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/2KU77B0N3S/hll-votemap-map-injector
-" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/2KU77B0N3S/hll-votemap-map-injector" alt="last update" />
   </a>
   <a href="https://github.com/2KU77B0N3S/hll-geofences/network/members">
-    <img src="https://img.shields.io/github/forks/2KU77B0N3S/hll-votemap-map-injector
-" alt="forks" />
+    <img src="https://img.shields.io/github/forks/2KU77B0N3S/hll-votemap-map-injector" alt="forks" />
   </a>
   <a href="https://github.com/2KU77B0N3S/hll-geofences/stargazers">
-    <img src="https://img.shields.io/github/stars/2KU77B0N3S/hll-votemap-map-injector
-" alt="stars" />
+    <img src="https://img.shields.io/github/stars/2KU77B0N3S/hll-votemap-map-injector" alt="stars" />
   </a>
   <a href="https://github.com/2KU77B0N3S/hll-geofences/issues/">
-    <img src="https://img.shields.io/github/issues/2KU77B0N3S/hll-votemap-map-injector
-" alt="open issues" />
+    <img src="https://img.shields.io/github/issues/2KU77B0N3S/hll-votemap-map-injector" alt="open issues" />
   </a>
   <a href="https://github.com/2KU77B0N3S/hll-geofences/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/2KU77B0N3S/hll-geofences.svg" alt="license" />
