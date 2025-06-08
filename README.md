@@ -5,32 +5,32 @@
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/2KU77B0N3S/hll-geofences/graphs/contributors">
+  <a href="https://github.com/2KU77B0N3S/hll-votemap-map-injector/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/2KU77B0N3S/hll-votemap-map-injector" alt="contributors" />
   </a>
   <a href="">
     <img src="https://img.shields.io/github/last-commit/2KU77B0N3S/hll-votemap-map-injector" alt="last update" />
   </a>
-  <a href="https://github.com/2KU77B0N3S/hll-geofences/network/members">
+  <a href="https://github.com/2KU77B0N3S/hll-votemap-map-injector/network/members">
     <img src="https://img.shields.io/github/forks/2KU77B0N3S/hll-votemap-map-injector" alt="forks" />
   </a>
-  <a href="https://github.com/2KU77B0N3S/hll-geofences/stargazers">
+  <a href="https://github.com/2KU77B0N3S/hll-votemap-map-injector/stargazers">
     <img src="https://img.shields.io/github/stars/2KU77B0N3S/hll-votemap-map-injector" alt="stars" />
   </a>
-  <a href="https://github.com/2KU77B0N3S/hll-geofences/issues/">
+  <a href="https://github.com/2KU77B0N3S/hll-votemap-map-injector/issues/">
     <img src="https://img.shields.io/github/issues/2KU77B0N3S/hll-votemap-map-injector" alt="open issues" />
   </a>
-  <a href="https://github.com/2KU77B0N3S/hll-geofences/blob/master/LICENSE">
+  <a href="https://github.com/2KU77B0N3S/hll-votemap-map-injector/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/2KU77B0N3S/hll-geofences.svg" alt="license" />
   </a>
 </p>
    
 <h4>
-  <a href="https://github.com/2KU77B0N3S/hll-geofences">Documentation</a>
+  <a href="https://github.com/2KU77B0N3S/hll-votemap-map-injector">Documentation</a>
   <span> · </span>
-  <a href="https://github.com/2KU77B0N3S/hll-geofences/issues/">Report Bug</a>
+  <a href="https://github.com/2KU77B0N3S/hll-votemap-map-injector/issues/">Report Bug</a>
   <span> · </span>
-  <a href="https://github.com/2KU77B0N3S/hll-geofences/issues/">Request Feature</a>
+  <a href="https://github.com/2KU77B0N3S/hll-votemap-map-injector/issues/">Request Feature</a>
 </h4>
 </div>
 
